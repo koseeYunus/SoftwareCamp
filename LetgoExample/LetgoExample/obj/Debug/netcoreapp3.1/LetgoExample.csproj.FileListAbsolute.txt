@@ -1,0 +1,13 @@
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\bin\Debug\netcoreapp3.1\LetgoExample.exe
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\bin\Debug\netcoreapp3.1\LetgoExample.deps.json
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\bin\Debug\netcoreapp3.1\LetgoExample.runtimeconfig.json
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\bin\Debug\netcoreapp3.1\LetgoExample.runtimeconfig.dev.json
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\bin\Debug\netcoreapp3.1\LetgoExample.dll
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\bin\Debug\netcoreapp3.1\LetgoExample.pdb
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.csprojAssemblyReference.cache
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.AssemblyInfoInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.AssemblyInfo.cs
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.csproj.CoreCompileInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.dll
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.pdb
+C:\Users\yK\Desktop\SoftwareCamp\LetgoExample\LetgoExample\obj\Debug\netcoreapp3.1\LetgoExample.genruntimeconfig.cache
