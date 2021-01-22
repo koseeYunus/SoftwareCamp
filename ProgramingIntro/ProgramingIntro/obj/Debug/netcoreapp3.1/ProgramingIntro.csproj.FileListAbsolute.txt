@@ -1,0 +1,13 @@
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\bin\Debug\netcoreapp3.1\ProgramingIntro.exe
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\bin\Debug\netcoreapp3.1\ProgramingIntro.deps.json
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\bin\Debug\netcoreapp3.1\ProgramingIntro.runtimeconfig.json
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\bin\Debug\netcoreapp3.1\ProgramingIntro.runtimeconfig.dev.json
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\bin\Debug\netcoreapp3.1\ProgramingIntro.dll
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\bin\Debug\netcoreapp3.1\ProgramingIntro.pdb
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.csprojAssemblyReference.cache
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.AssemblyInfoInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.AssemblyInfo.cs
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.csproj.CoreCompileInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.dll
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.pdb
+C:\Users\yK\Desktop\SoftwareCamp\ProgramingIntro\ProgramingIntro\obj\Debug\netcoreapp3.1\ProgramingIntro.genruntimeconfig.cache
