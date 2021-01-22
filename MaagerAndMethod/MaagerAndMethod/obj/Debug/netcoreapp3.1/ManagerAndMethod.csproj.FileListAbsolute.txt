@@ -1,0 +1,13 @@
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\bin\Debug\netcoreapp3.1\ManagerAndMethod.exe
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\bin\Debug\netcoreapp3.1\ManagerAndMethod.deps.json
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\bin\Debug\netcoreapp3.1\ManagerAndMethod.runtimeconfig.json
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\bin\Debug\netcoreapp3.1\ManagerAndMethod.runtimeconfig.dev.json
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\bin\Debug\netcoreapp3.1\ManagerAndMethod.dll
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\bin\Debug\netcoreapp3.1\ManagerAndMethod.pdb
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.csprojAssemblyReference.cache
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.AssemblyInfoInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.AssemblyInfo.cs
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.csproj.CoreCompileInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.dll
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.pdb
+C:\Users\yK\Desktop\SoftwareCamp\MaagerAndMethod\MaagerAndMethod\obj\Debug\netcoreapp3.1\ManagerAndMethod.genruntimeconfig.cache
