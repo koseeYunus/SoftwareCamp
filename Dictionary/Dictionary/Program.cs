@@ -10,7 +10,7 @@ namespace Dictionary
             //Keys ve Values değerleri string olacak sözlüğümüzü oluşturduk.
             MyDictionary<string, string> openWith = new MyDictionary<string, string>();
 
-            //Sözlüğümüze anahtar ve değere değişkenlerimizi atıyoruz.
+            //Sözlüğümüze anahtar ve değer değişkenlerimizi atıyoruz.
             openWith.Add("mp4", "GOM.exe");
             openWith.Add("png", "Fireworks.exe");
             openWith.Add("cs", "devenv.exe");
