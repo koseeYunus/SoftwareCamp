@@ -32,8 +32,6 @@ namespace Dictionary
 
             openWith.WriteData();
 
-
-
         }
     }
 }
