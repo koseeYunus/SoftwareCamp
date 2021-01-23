@@ -18,9 +18,11 @@ namespace Dictionary
             openWith.Add("jpg", "mspaint.exe");
             openWith.Add("doc", "WINWORD.EXE");
 
+            //Eklenen elemanlar listeleniyor.
             openWith.WriteData();
 
             Console.WriteLine("---------------------------------");
+            //Silme işlemi için key value değerleri alınıyor.
             string DKey, DValue;
             Console.Write("Silinecek elemanın anahtar sözcüğü = ");
             DKey = Console.ReadLine();
@@ -28,8 +30,10 @@ namespace Dictionary
             DValue = Console.ReadLine();
             Console.WriteLine("---------------------------------");
 
+            //Silme metodu çalıştırılıyor.
             openWith.Delete(DKey, DValue);
 
+            //Eklenen elemanlar listeleniyor.
             openWith.WriteData();
 
         }
