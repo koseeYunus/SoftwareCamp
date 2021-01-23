@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yK\\Desktop\\SoftwareCamp\\OOPExample\\OOPExample\\OOPExample.csproj",
-      "projectName": "OOPExample",
-      "projectPath": "C:\\Users\\yK\\Desktop\\SoftwareCamp\\OOPExample\\OOPExample\\OOPExample.csproj",
+      "projectUniqueName": "C:\\Users\\yK\\Desktop\\SoftwareCamp\\OOPExample\\OOPExample\\OOPIntro.csproj",
+      "projectName": "OOPIntro",
+      "projectPath": "C:\\Users\\yK\\Desktop\\SoftwareCamp\\OOPExample\\OOPExample\\OOPIntro.csproj",
       "packagesPath": "C:\\Users\\yK\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\yK\\Desktop\\SoftwareCamp\\OOPExample\\OOPExample\\obj\\",
       "projectStyle": "PackageReference",
