@@ -1,0 +1,13 @@
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\yK\Desktop\SoftwareCamp\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
