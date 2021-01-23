@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace OOP
 {
@@ -19,9 +20,13 @@ namespace OOP
 
             //Bir nevi soyutlama
             BasvuruManager basvuruManager = new BasvuruManager();
-            basvuruManager.BasvuruYap(ihtiyacKrediManager);
-            basvuruManager.BasvuruYap(tasitKrediManager);
-            basvuruManager.BasvuruYap(konutKrediManager);
+            //basvuruManager.BasvuruYap(ihtiyacKrediManager);
+            //basvuruManager.BasvuruYap(tasitKrediManager);
+            //basvuruManager.BasvuruYap(konutKrediManager);
+
+            List<IKrediManager> krediler = new List<IKrediManager>() { ihtiyacKrediManager,konutKrediManager };
+
+            basvuruManager.KrediOnBilgilendirmesiYap(krediler);
         }
     }
 }
