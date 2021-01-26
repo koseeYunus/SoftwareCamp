@@ -19,7 +19,7 @@ namespace OOP
             //konutKrediManager.Hesapla();
 
 
-            ILoggerService databaseLoggerService = new FileLogerService();
+            ILoggerService databaseLoggerService = new DatebaseLogerService();
 
             List<ILoggerService> loggers = new List<ILoggerService> { new FileLogerService(), new FileLogerService() };
 
