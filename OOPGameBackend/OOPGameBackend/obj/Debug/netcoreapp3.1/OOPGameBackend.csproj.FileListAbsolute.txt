@@ -1,0 +1,13 @@
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\bin\Debug\netcoreapp3.1\OOPGameBackend.exe
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\bin\Debug\netcoreapp3.1\OOPGameBackend.deps.json
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\bin\Debug\netcoreapp3.1\OOPGameBackend.runtimeconfig.json
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\bin\Debug\netcoreapp3.1\OOPGameBackend.runtimeconfig.dev.json
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\bin\Debug\netcoreapp3.1\OOPGameBackend.dll
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\bin\Debug\netcoreapp3.1\OOPGameBackend.pdb
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.csprojAssemblyReference.cache
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.AssemblyInfoInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.AssemblyInfo.cs
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.csproj.CoreCompileInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.dll
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.pdb
+C:\Users\yK\Desktop\SoftwareCamp\OOPGameBackend\OOPGameBackend\obj\Debug\netcoreapp3.1\OOPGameBackend.genruntimeconfig.cache
