@@ -19,8 +19,7 @@ namespace Business.Concrete
         public List<Product> GetAll()
         {
             //Ürünlerin iş kodları (Yetkisi varmı gibi kontroller burada yapılır.)
-            return _productDal.GetAll();
-             
+            return _productDal.GetAll();             
         }
 
         public List<Product> GetAllByCategoryId(int id)

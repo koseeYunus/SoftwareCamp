@@ -1,0 +1,9 @@
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\yK\Desktop\SoftwareCamp\MyFinalProject\Core\obj\Debug\netstandard2.0\Core.pdb
