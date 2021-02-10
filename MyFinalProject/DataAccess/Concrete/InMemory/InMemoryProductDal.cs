@@ -46,7 +46,7 @@ namespace DataAccess.Concrete.InMemory
 
         public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public List<Product> GetAllByCategory(int categoryId)
@@ -57,7 +57,7 @@ namespace DataAccess.Concrete.InMemory
 
         public List<ProductDetailDto> GetProductDetail()
         {
-            throw new NotImplementedException();
+            return null;
         }
 
         public void Update(Product product)
