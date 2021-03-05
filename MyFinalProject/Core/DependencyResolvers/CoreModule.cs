@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 
 namespace Core.DependencyResolvers
@@ -17,6 +18,8 @@ namespace Core.DependencyResolvers
 
             serviceCollection.AddSingleton<ICacheManager, MemoryCacheManager>();
             serviceCollection.AddMemoryCache(); // Redis'e geçtiğimizde bu kısma gerek kalmıyor.
+
+            serviceCollection.AddSingleton<Stopwatch>(); // PerformanceAspect için kronometre eklendi.
         }
     }
 }
