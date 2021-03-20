@@ -32,7 +32,7 @@ namespace Business.Concrete
         }
 
         [CacheRemoveAspect("IProductService.Get")]
-        [SecuredOperation("product.add,admin")]
+        //[SecuredOperation("product.add,admin")]
         [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {
@@ -44,6 +44,7 @@ namespace Business.Concrete
             //}
 
             //ValidationTool.Validate(new ProductValidator(), product);
+
 
             IResult result = BusinessRules.Run(CheckIfProductNameExists(product.ProductName), CheckIfProductCountOfCategoryCorrect(product.CategoryId), CheckIfCategoryLimitExceded());
 
@@ -60,7 +61,7 @@ namespace Business.Concrete
         [CacheAspect] //key, value
         public IDataResult<List<Product>> GetAll()
         {
-            if (DateTime.Now.Hour == 9)
+            if (DateTime.Now.Hour == 3)
             {
                 return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
             }
@@ -70,7 +71,7 @@ namespace Business.Concrete
 
         public IDataResult<List<Product>> GetAllByCategoryId(int id)
         {
-            return new SuccessDataResult<List<Product>>(_productDal.GetAll(p => p.CategoryId == id));
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(p => p.CategoryId == id), Messages.ProductsListed);
         }
 
         [PerformanceAspect(3)]
